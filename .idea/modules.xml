@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Java25-26_L02-UnitTests-Exceptions.iml" filepath="$PROJECT_DIR$/Java25-26_L02-UnitTests-Exceptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/j02.iml" filepath="$PROJECT_DIR$/j02.iml" />
     </modules>
   </component>
 </project>
