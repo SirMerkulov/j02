@@ -1,4 +1,6 @@
-import org.example.MonthInfo.MonthInfo;
+package ru.teamscore.monthinfotest;
+
+import ru.teamscore.monthinfo.MonthInfo;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Nested;
 import org.junit.jupiter.api.Test;

@@ -1,6 +1,6 @@
-package passwordvalidator;
+package ru.teamscore.passwordvalidatortest;
 
-import org.example.passwordvalidator.PasswordValidator;
+import ru.teamscore.passwordvalidator.PasswordValidator;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.params.ParameterizedTest;

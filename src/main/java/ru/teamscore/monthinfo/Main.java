@@ -1,4 +1,4 @@
-package org.example.MonthInfo;
+package ru.teamscore.monthinfo;
 
 import java.time.LocalDateTime;
 
@@ -14,8 +14,6 @@ public class Main {
         // Создание объекта с конкретной датой
         LocalDateTime specificDate = LocalDateTime.of(2023, 3, 15, 10, 30);
         MonthInfo march2023 = new MonthInfo(specificDate);
-
-
         march2023.printAllInfo();
     }
 }

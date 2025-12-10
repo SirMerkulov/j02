@@ -1,5 +1,4 @@
-package org.example.MonthInfo;
-
+package ru.teamscore.monthinfo;
 import java.time.*;
 import java.time.format.TextStyle;
 import java.util.Locale;
@@ -66,7 +65,6 @@ public class MonthInfo {
         System.out.println("Количество дней в месяце: " + getDaysInMonth());
         System.out.println("Квартал: " + getQuarterWithYear());
     }
-
-
+    
 }
 

@@ -1,4 +1,4 @@
-package org.example.passwordvalidator;
+package ru.teamscore.passwordvalidator;
 import java.util.ArrayList;
 import java.util.List;
 

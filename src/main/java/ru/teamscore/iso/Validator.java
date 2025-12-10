@@ -1,7 +1,6 @@
-package org.example.ISO;
+package ru.teamscore.iso;
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
-
 public class Validator {
 
     private final Finder finder = new Finder();

@@ -1,6 +1,4 @@
-package org.example.alreadyExistsException;
-
-import java.util.*;
+package ru.teamscore.exception;
 
 /**
         * Пользовательское исключение, возникающее при обнаружении дублирующегося значения
